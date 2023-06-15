@@ -25,7 +25,5 @@ You can change volume through the slider.
 #### Note:
 You will have to extract the file which contains icon and images in the same module in which your main driver file is, otherwise it will give an error.
 
-Made with love with by, Jeel Patel
-email:pjeel122@gmail.com
-LinkedIn: linkedin.com/in/jeel-patel-6b630b249
-github:github.com/iamj33l
+Made with ❤️ with by, [Jeel Patel](https://github.com/iamj33l)
+LinkedIn: [JEEL PATEL](https://linkedin.com/in/jeel-patel-6b630b249)
